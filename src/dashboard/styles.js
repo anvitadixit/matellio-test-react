@@ -1,9 +1,8 @@
 export const styles = {
-  dashboardWrapper: { marginBottom: 50 },
+  dashboardWrapper: { width: "95%", margin: "0 auto" },
   table: {
     border: "1px solid black",
-    width: "90%",
-    margin: "0 auto",
+    width: "100%",
   },
   th: {
     border: "1px solid black",
