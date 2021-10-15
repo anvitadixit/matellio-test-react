@@ -1,0 +1,5 @@
+export const constants = {
+  GET_LIST_LOADING: "GET_LIST_LOADING",
+  GET_LIST_SUCCESS: "GET_LIST_SUCCESS",
+  UPDATE_LIST: "UPDATE_LIST",
+};
